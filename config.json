@@ -1,0 +1,8 @@
+{
+    "input_device": null,
+    "output_device": null,
+    "voiceprint_path": "data/voiceprint.wav",
+    "onnx_threads": 2,
+    "chunk_ms": 40,
+    "sample_rate": 48000
+}

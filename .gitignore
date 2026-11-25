@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Personal voiceprints & test recordings
+data/*.wav
+data/*.mp3
+data/*.flac
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
